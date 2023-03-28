@@ -1,2 +1,2 @@
-# test-live-camera-js
+# react-video-recorder
 Created with CodeSandbox
